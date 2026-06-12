@@ -42,8 +42,6 @@ pip install fused
 ```
 
 ```python
-import fused
-
 # 動作確認
 import fused
 
