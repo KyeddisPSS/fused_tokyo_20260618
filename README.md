@@ -1,3 +1,5 @@
+![Fused.io](https://miro.medium.com/v2/resize:fit:1400/1*0Ky8lQUvhozFSDJgQXpw-w.png)
+
 # Fused.io ハンズオン セッション
  
 ## 🚀 セッション開始はこちら
