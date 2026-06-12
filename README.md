@@ -1,4 +1,4 @@
-![Fused.io](https://miro.medium.com/v2/resize:fit:1400/1*0Ky8lQUvhozFSDJgQXpw-w.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*0Ky8lQUvhozFSDJgQXpw-w.png" width="400"/>
 
 # Fused.io ハンズオン セッション
  
