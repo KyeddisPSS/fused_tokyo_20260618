@@ -6,9 +6,11 @@
  
 | リンク | 説明 |
 |--------|------|
-| [Fused.io アプリを開く](https://app.fused.io) | セッション用クラウド環境 |
-| [ハンズオン ノートブック](#) | 本日使用するノートブック |
-| [サンプルデータ](#) | セッション用データセット |
+| [キャンバス例１](https://www.fused.io/canvas/fc_2iT7Nl69JiwcOzKkIKIa2N) | ジオ展交通事故キャンバス |
+| [キャンバス例２](https://www.fused.io/canvas/fc_7aeTlOg2S9UwBO4MJASK86) | ジオ展地震影響キャンバス |
+| [ハンズオン1](https://www.fused.io/canvas/fc_3iIG5erQJf0JjuFUhTCxjy) | ハンズオンの未完成キャンバス |
+| [ハンズオン2](https://www.fused.io/canvas/fc_53COHnUmDWUhxCFbC3SRlg) | ハンズオンの完成キャンバス |
+| [ハンズオン3](https://www.fused.io/canvas/fc_3EwyXkpLPCggIlfrtMdUvc) | ハンズオンのボーナスキャンバス |
  
 ---
  
